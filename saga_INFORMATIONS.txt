@@ -1,0 +1,4 @@
+1 - INSTALANDO O
+react-saga
+react-redux
+redux
